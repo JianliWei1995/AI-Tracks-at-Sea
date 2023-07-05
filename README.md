@@ -9,5 +9,10 @@ AI tracks at sea challenge solicits software solutions to automatically generate
 5)	Achieve acceptable accuracy and precision that reduce geolocation errors.
 
 ## Deliverables
-[[`paper`](https://arxiv.org/abs/2109.01235)] [[`video`](https://youtu.be/0CrNUJH9Ueg)]
-[poster](https://github.com/JianliWei1995/Track-at-the-Sea-2020/blob/main/JianliWei_poster.pdf)
+[[`paper`](https://arxiv.org/abs/2109.01235)] [poster](https://github.com/JianliWei1995/Track-at-the-Sea-2020/blob/main/JianliWei_poster.pdf) [[`video`](https://youtu.be/0CrNUJH9Ueg)]
+
+<object data="https://github.com/JianliWei1995/Track-at-the-Sea-2020/blob/main/JianliWei_poster.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/JianliWei1995/Track-at-the-Sea-2020/blob/main/JianliWei_poster.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a https://github.com/JianliWei1995/Track-at-the-Sea-2020/blob/main/JianliWei_poster.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
