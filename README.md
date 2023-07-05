@@ -11,5 +11,5 @@ AI tracks at sea challenge solicits software solutions to automatically generate
 ## Deliverables
 [[`paper`](https://arxiv.org/abs/2109.01235)] [[`video`](https://youtu.be/0CrNUJH9Ueg)]
 <p>
-  <img src="https://github.com/JianliWei1995/Track-at-the-Sea-2020/blob/main/JianliWei_count_2022.png" width=80% height=80% />
+  <img src="https://github.com/JianliWei1995/Track-at-the-Sea-2020/blob/main/JianliWei_count_2022.png" width=100% height=100% />
 </p>
