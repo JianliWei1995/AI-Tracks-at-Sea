@@ -7,3 +7,6 @@ AI tracks at sea challenge solicits software solutions to automatically generate
 3)	Tracking the target boat in real time. The camera is stationary, but the boat is in motion and at times leave the camera field of view. A continuous tracking strategy needs to be built that can identify the target boat from among similar looking other boats in real time and should be able to relabel the out-of-range boat once it gets back into view.
 4)	Develop an end-to-end AI solution: The solution should utilize the strategies and recent advancements in the literature to resolve this problem.
 5)	Achieve acceptable accuracy and precision that reduce geolocation errors.
+
+## deliverables
+[[`paper`](https://arxiv.org/abs/2109.01235)] [[`video`](https://youtu.be/0CrNUJH9Ueg)]
