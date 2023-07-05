@@ -8,5 +8,6 @@ AI tracks at sea challenge solicits software solutions to automatically generate
 4)	Develop an end-to-end AI solution: The solution should utilize the strategies and recent advancements in the literature to resolve this problem.
 5)	Achieve acceptable accuracy and precision that reduce geolocation errors.
 
-## deliverables
+## Deliverables
 [[`paper`](https://arxiv.org/abs/2109.01235)] [[`video`](https://youtu.be/0CrNUJH9Ueg)]
+[poster]()
